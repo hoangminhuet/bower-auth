@@ -1,0 +1,17 @@
+{
+  "name": "bower-auth",
+  "version": "1.0.1",
+  "authors": [
+    "Hoang Minh <hoangminhhuet@gmail.com>"
+  ],
+  "description": "Auth template for Thesis",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hoangminhuet99/bower-auth.git",
+  "ignore": [
+    "README.md"
+  ]
+}
